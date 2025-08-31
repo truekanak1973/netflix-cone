@@ -21,7 +21,7 @@ This project replicates the frontend layout of Netflix including the homepage de
 ## 📸 Screenshots  
 
 ### Homepage  
-![Homepage](netflixshot/home.png)  
+![Homepage](netflixshot.png)  
 
 
 
